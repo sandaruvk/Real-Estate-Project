@@ -1,0 +1,70 @@
+.section-content {
+  text-align: justify;
+  color: #2ecc71;
+  font-weight: bold;
+  font-size: 1.1em;
+  line-height: 1.5;
+  padding: 20px;
+}
+
+
+.row img {
+  max-height: 250px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.about-us-body {
+  margin: 0;
+  padding: 0;
+  background-image: url('C:\Users\Sandaru Vihanga\Desktop\react\Skyline estates\react\src\assets\home\about1.jpg'); 
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-position: center;
+  font-family: 'Roboto', sans-serif; 
+  border-radius: 1%;
+}
+
+.about-us-container {
+  background-image:url('C:\Users\Sandaru Vihanga\Desktop\react\Skyline estates\react\src\assets\home\aboutmiddle.jpg'); 
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 3px solid #3498db; 
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  background-color: rgba(236, 240, 241, 0.8);
+  position: relative; 
+}
+
+.about-us-container:hover {
+  background-color: rgb(22, 54, 62);
+}
+
+.about-us-container:hover .about {
+  color: #c10d22; 
+}
+
+.about-us-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+}
+
+h1 {
+  color: #2ecc71; 
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #020800f7; 
+}
+

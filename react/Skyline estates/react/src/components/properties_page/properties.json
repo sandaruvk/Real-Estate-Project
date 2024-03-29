@@ -1,0 +1,187 @@
+{
+	"properties": [
+		{
+			"id": "prop1",
+			"type": "Apartment",
+			"bedrooms": 4,
+			"tenure": "Freehold",
+			"price": 100000,
+			"description": "Introducing 350 Riverside Crescent - the new tower in the Riverside Crescent edition series. Nestled in a stunning development of 8 million Sq. Ft. with draped waterfronts, blue lagoons, and river, it embraces nature, water, open spaces, and lush landscaping. Discover 1- 2 bedroom apartments with views of vibrant Downtown Dubai.",
+			"location": "Downtown, Dubai",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42578.32786919598!2d55.28741409366934!3d25.199122795330116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682f700cf983%3A0xb5cc58b076c0b904!2sDowntown%20Dubai%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2slk!4v1705274174307!5m2!1sen!2slk",
+			"picture": "images/prop1pic1small.jpg",
+			"postalCode": "25314",
+			"url": "properties/prop1.html",
+			"added": {
+				"month": "January",
+				"day": 22,
+				"year": 2024
+			},
+			"pictures": [
+				"/images/1/1.webp",
+				"/images/1/2.webp",
+				"/images/1/3.webp",
+				"/images/1/4.webp",
+				"/images/1/5.webp",
+				"/images/1/6.webp"
+			]
+		},
+		{
+			"id": "prop2",
+			"type": "Apartment",
+			"bedrooms": 6,
+			"price": 500000,
+			"tenure": "Freehold",
+			"description": "Welcome to our extraordinary establishment, where an array of world-class amenities awaits to indulge your senses and elevate your experience to new heights. Immerse yourself in a captivating realm of luxury, entertainment, and culinary delights, all under one roof.",
+			"location": "Dubai Marina,Dubai",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42578.32786919598!2d55.28741409366934!3d25.199122795330116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682f700cf983%3A0xb5cc58b076c0b904!2sDowntown%20Dubai%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2slk!4v1705274174307!5m2!1sen!2slk",
+			"picture": "images/prop2pic1small.jpg",
+			"postalCode": "65734",
+			"url": "properties/prop2.html",
+			"added": {
+				"month": "February",
+				"day": 1,
+				"year": 2024
+			},
+			"pictures": [
+				"/images/2/1.webp",
+				"/images/2/2.webp",
+				"/images/2/3.webp",
+				"/images/2/4.webp",
+				"/images/2/5.webp",
+				"/images/2/6.webp"
+			]
+		},
+		{
+			"id": "prop3",
+			"type": "Apartment",
+			"bedrooms": 1,
+			"price": 410000,
+			"tenure": "Freehold",
+			"description": "Situated near the waterfront in an apartment-cluster shaped like a tapered crescent, 330 Riverside Crescent fulfills all your residential aspirations at a paramount address. Life at 330 Riverside Crescent is about soaking in unique beachfront views from the four-tiered open terrace gardens interconnected with the retail and restaurant arenas on the ground.",
+			"location": "330 Cresant,Dubai",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42578.32786919598!2d55.28741409366934!3d25.199122795330116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682f700cf983%3A0xb5cc58b076c0b904!2sDowntown%20Dubai%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2slk!4v1705274174307!5m2!1sen!2slk",
+			"picture": "images/prop3pic1small.jpg",
+			"postalCode": "90786",
+			"url": "properties/prop3.html",
+			"added": {
+				"month": "October",
+				"day": 8,
+				"year": 2024
+			},
+			"pictures": [
+				"/images/3/1.webp",
+				"/images/3/2.webp",
+				"/images/3/3.webp",
+				"/images/3/4.webp",
+				"/images/3/5.webp",
+				"/images/3/6.webp"
+			]
+		},
+		{
+			"id": "prop4",
+			"type": "Pent House",
+			"bedrooms": 8,
+			"price": 70000,
+			"tenure": "Freehold",
+			"description": "Rising from 30 stories tall and hitting a crescendo of 65 stories, this residential development lies near the Ras Al Khor Road overlooking Dubai Creek with panoramic views of the Burj Khalifa, Creek Tower to the northeast, and Downtown to the west.",
+			"location": "The Sobha One",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42578.32786919598!2d55.28741409366934!3d25.199122795330116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682f700cf983%3A0xb5cc58b076c0b904!2sDowntown%20Dubai%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2slk!4v1705274174307!5m2!1sen!2slk",
+			"picture": "images/prop4pic1small.jpg",
+			"postalCode": "62992",
+			"url": "properties/prop4.html",
+			"added": {
+				"month": "March",
+				"day": 19,
+				"year": 2024
+			},
+			"pictures": [
+				"/images/4/1.webp",
+				"/images/4/2.webp",
+				"/images/4/3.webp",
+				"/images/4/4.webp",
+				"/images/4/5.webp",
+				"/images/4/6.webp"
+			]
+		},
+		{
+			"id": "prop5",
+			"type": "Pent House",
+			"bedrooms": 2,
+			"price": 80000,
+			"tenure": "Freehold",
+			"description": "Be incepted in the lifestyle of a lifetime at the one-of-its-kind property that is Waves Opulence. Spend every waking moment with a 360-degree panoramic view — a sublime blend of dancing waves along the waterfront, landscaped greenery, and vibrant views of Downtown Dubai. Located right in the heart of the city.",
+			"location": "Waves, Opulance",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42578.32786919598!2d55.28741409366934!3d25.199122795330116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682f700cf983%3A0xb5cc58b076c0b904!2sDowntown%20Dubai%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2slk!4v1705274174307!5m2!1sen!2slk",
+			"picture": "images/prop5pic1small.jpg",
+			"postalCode": "32415",
+			"url": "properties/prop5.html",
+			"added": {
+				"month": "June",
+				"day": 21,
+				"year": 2024
+			},
+			"pictures": [
+				"/images/5/1.webp",
+				"/images/5/2.webp",
+				"/images/5/3.webp",
+				"/images/5/4.webp",
+				"/images/5/5.webp",
+				"/images/5/6.webp"
+			]
+		},
+		{
+			"id": "prop6",
+			"type": "Apartment",
+			"bedrooms": 5,
+			"price": 250000,
+			"tenure": "Freehold",
+			"description": "The S Tower offers exclusive outdoor living spaces with views of Palm Jumeirah and the expansive horizon, in addition to quick access to Palm Jumeirah, Dubai Marina, Burj Al Arab, Mall of Emirates and Dubai Media City",
+			"location": "The S,Dubai",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42578.32786919598!2d55.28741409366934!3d25.199122795330116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682f700cf983%3A0xb5cc58b076c0b904!2sDowntown%20Dubai%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2slk!4v1705274174307!5m2!1sen!2slk",
+			"picture": "images/prop6pic1small.jpg",
+			"postalCode": "200134",
+			"url": "properties/prop6.html",
+			"added": {
+				"month": "January",
+				"day": 31,
+				"year": 2024
+			},
+			"pictures": [
+				"/images/6/1.webp",
+				"/images/6/2.webp",
+				"/images/6/3.webp",
+				"/images/6/4.webp",
+				"/images/6/5.webp",
+				"/images/6/6.webp"
+			]
+		},
+		{
+			"id": "prop7",
+			"type": "Apartment",
+			"bedrooms": 1,
+			"price": 180000,
+			"tenure": "Freehold",
+			"description": "The first project at Jumeirah Lake Towers in close proximity to two metro stations. Located at First Al Khail Street, it is minutes away from Sheikh Zayed Road, Dubai Harbour and Marina, JBR Beach, Marina Mall and Palm Jumeirah. Access uninterrupted panoramic views of vast meadows and green golf course from the thoughtfully crafted spacious abode.",
+			"location": "VERD,Dubai",
+			"map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42578.32786919598!2d55.28741409366934!3d25.199122795330116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682f700cf983%3A0xb5cc58b076c0b904!2sDowntown%20Dubai%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2slk!4v1705274174307!5m2!1sen!2slk",
+			"picture": "images/prop7pic1small.jpg",
+			"postalCode": "03191",
+			"url": "properties/prop7.html",
+			"added": {
+				"month": "November",
+				"day": 30,
+				"year": 2024
+			},
+			"pictures": [
+				"/images/7/1.webp",
+				"/images/7/2.webp",
+				"/images/7/3.webp",
+				"/images/7/4.webp",
+				"/images/7/5.webp",
+				"/images/7/6.webp"
+			]
+		}
+	]
+		
+	}

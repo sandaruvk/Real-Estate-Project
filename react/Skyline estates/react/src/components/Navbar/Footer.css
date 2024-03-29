@@ -1,0 +1,36 @@
+.footer a {
+    color: #343a40; 
+    text-decoration: none;
+    margin: 0 0.5rem;
+    font-size: 1.1rem;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+    transform: translateY(-2px);
+  }
+  
+  .social-media-links a {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    color: #343a40; 
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .social-media-links a:hover {
+    transform: translateY(-2px);
+  }
+  
+
+  .footer {
+    background-image: url('C:\Users\Sandaru Vihanga\Desktop\react\Skyline estates\react\src\assets\home\The-Basics-of-Virtual-Real-Estate-in-the-Metaverse.webp');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    filter: brightness(80%); 
+  }
+
+  .dark-text {
+    color: #ccc;
+  }
